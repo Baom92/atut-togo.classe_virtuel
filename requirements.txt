@@ -1,0 +1,6 @@
+Flask
+pymongo
+requests
+google
+flask_restplus
+beautifulsoup4

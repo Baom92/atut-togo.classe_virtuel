@@ -1,0 +1,20 @@
+{
+  "preparation_tag": "li",
+  "preparation_class": "recipe-preparation__list__item",
+  "ingredients_tag": "li",
+  "ingredients_class": "recipe-ingredients__list__item",
+  "ingredients_quantity_tag": "span",
+  "ingredients_quantity_class": "recipe-ingredient-qt",
+  "ingredients_name_tag": "span",
+  "ingredients_name_class": "ingredient",
+  "nom_tag": "h1",
+  "nom_class": "main-title",
+  "nombre_personnes_tag": "span",
+  "nombre_personnes_class": "recipe-infos__quantity__value",
+  "temps_preparation_tag": "div",
+  "temps_preparation_class": "recipe-infos__timmings__preparation",
+  "temps_cuisson_tag": "div",
+  "temps_cuisson_class": "recipe-infos__timmings__cooking",
+  "temps_total_tag": "span",
+  "temps_total_class": "recipe-infos__total-time__value"
+}
